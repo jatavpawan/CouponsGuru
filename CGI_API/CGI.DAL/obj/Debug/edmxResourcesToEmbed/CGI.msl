@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="gulam786_CGIModelStoreContainer" CdmEntityContainer="gulam786_CGIEntities">
+    <EntitySetMapping Name="CouponsCollections">
+      <EntityTypeMapping TypeName="gulam786_CGIModel.CouponsCollections">
+        <MappingFragment StoreEntitySet="CouponsCollections">
+          <ScalarProperty Name="CGIID" ColumnName="CGIID" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="lmd_id" ColumnName="lmd_id" />
+          <ScalarProperty Name="store" ColumnName="store" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="featured" ColumnName="featured" />
+          <ScalarProperty Name="coupon_type" ColumnName="coupon_type" />
+          <ScalarProperty Name="listing_sticker" ColumnName="listing_sticker" />
+          <ScalarProperty Name="url" ColumnName="url" />
+          <ScalarProperty Name="link" ColumnName="link" />
+          <ScalarProperty Name="coupon_txt" ColumnName="coupon_txt" />
+          <ScalarProperty Name="categories" ColumnName="categories" />
+          <ScalarProperty Name="start_date" ColumnName="start_date" />
+          <ScalarProperty Name="expiry_date" ColumnName="expiry_date" />
+          <ScalarProperty Name="listing_expiry_date" ColumnName="listing_expiry_date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserRegister">
+      <EntityTypeMapping TypeName="gulam786_CGIModel.UserRegister">
+        <MappingFragment StoreEntitySet="UserRegister">
+          <ScalarProperty Name="RegistrationID" ColumnName="RegistrationID" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Mobile" ColumnName="Mobile" />
+          <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+          <ScalarProperty Name="GCMId" ColumnName="GCMId" />
+          <ScalarProperty Name="IsNotification" ColumnName="IsNotification" />
+          <ScalarProperty Name="FileName" ColumnName="FileName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

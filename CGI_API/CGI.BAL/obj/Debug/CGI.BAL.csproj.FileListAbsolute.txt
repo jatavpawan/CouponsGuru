@@ -1,0 +1,12 @@
+E:\GULAM_Work\CGI\CGI.BAL\obj\Debug\CGI.BAL.csprojResolveAssemblyReference.cache
+E:\GULAM_Work\CGI\CGI.BAL\bin\Debug\CGI.BAL.dll.config
+E:\GULAM_Work\CGI\CGI.BAL\bin\Debug\CGI.BAL.dll
+E:\GULAM_Work\CGI\CGI.BAL\bin\Debug\CGI.BAL.pdb
+E:\GULAM_Work\CGI\CGI.BAL\bin\Debug\CGI.DAL.dll
+E:\GULAM_Work\CGI\CGI.BAL\bin\Debug\EntityFramework.dll
+E:\GULAM_Work\CGI\CGI.BAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\GULAM_Work\CGI\CGI.BAL\bin\Debug\CGI.DAL.pdb
+E:\GULAM_Work\CGI\CGI.BAL\bin\Debug\EntityFramework.xml
+E:\GULAM_Work\CGI\CGI.BAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\GULAM_Work\CGI\CGI.BAL\obj\Debug\CGI.BAL.dll
+E:\GULAM_Work\CGI\CGI.BAL\obj\Debug\CGI.BAL.pdb

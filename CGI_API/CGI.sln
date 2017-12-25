@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGI", "CGI\CGI.csproj", "{7E3BFFC8-D34E-4CDC-BF2C-E399FC362549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGI.BAL", "CGI.BAL\CGI.BAL.csproj", "{D597B6BB-2737-4816-9DB9-F0DA7DCCF6E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGI.DAL", "CGI.DAL\CGI.DAL.csproj", "{19D7C5A7-2C7A-4F7C-8F88-68C009631C58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E3BFFC8-D34E-4CDC-BF2C-E399FC362549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3BFFC8-D34E-4CDC-BF2C-E399FC362549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3BFFC8-D34E-4CDC-BF2C-E399FC362549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3BFFC8-D34E-4CDC-BF2C-E399FC362549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D597B6BB-2737-4816-9DB9-F0DA7DCCF6E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D597B6BB-2737-4816-9DB9-F0DA7DCCF6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D597B6BB-2737-4816-9DB9-F0DA7DCCF6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D597B6BB-2737-4816-9DB9-F0DA7DCCF6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D7C5A7-2C7A-4F7C-8F88-68C009631C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D7C5A7-2C7A-4F7C-8F88-68C009631C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D7C5A7-2C7A-4F7C-8F88-68C009631C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D7C5A7-2C7A-4F7C-8F88-68C009631C58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+E:\GULAM_Work\CGI\CGI.DAL\bin\Debug\CGI.DAL.dll.config
+E:\GULAM_Work\CGI\CGI.DAL\bin\Debug\CGI.DAL.dll
+E:\GULAM_Work\CGI\CGI.DAL\bin\Debug\CGI.DAL.pdb
+E:\GULAM_Work\CGI\CGI.DAL\bin\Debug\EntityFramework.dll
+E:\GULAM_Work\CGI\CGI.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\GULAM_Work\CGI\CGI.DAL\bin\Debug\EntityFramework.xml
+E:\GULAM_Work\CGI\CGI.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\GULAM_Work\CGI\CGI.DAL\obj\Debug\CGI.DAL.dll
+E:\GULAM_Work\CGI\CGI.DAL\obj\Debug\CGI.DAL.pdb
